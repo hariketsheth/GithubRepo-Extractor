@@ -94,3 +94,14 @@ body {
   font-weight : bolder;
   margin-left: 0.5rem;
 }
+.repo {
+  text-decoration: none;
+  color: #fff;
+  background-color: #006947;
+  font-size: 0.7rem;
+  font-weight: bolder;
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: inline-block;
+}
